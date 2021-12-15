@@ -1,0 +1,55 @@
+@media all and (max-width: 850px) {
+   .vBrand{
+      font-size: 16px;
+   }
+ }
+
+ @media all and (max-width: 810px) {
+   .vBrand{
+      font-size: 15px;
+   }
+   .vNavItem {
+      font-size: 15px;
+   
+   }
+ }
+
+ @media all and (max-width: 750px) {
+   .vBrand{
+      font-size: 12px;
+   }
+   .vNavItem {
+      font-size: 12px;
+   
+   }
+ }
+
+ @media all and (max-width: 630px) {
+   .vBrand{
+      font-size: 10px;
+   }
+   .vNavItem {
+      font-size: 10px;
+   
+   }
+ }
+
+ @media all and (max-width: 550px) {
+   .vBrand{
+      font-size: 8px;
+   }
+   .vNavItem {
+      font-size: 8px;
+   
+   }
+ }
+
+ @media all and (max-width: 500px) {
+   .vBrand{
+      font-size: 6px;
+   }
+   .vNavItem {
+      font-size: 6px;
+   
+   }
+ }

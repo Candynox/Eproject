@@ -1,39 +1,26 @@
 body {
 	font-family: Georgia, "Times New Roman", Times, serif;
 }
-.navbar {
-	/* color: rgb(12, 25, 70); */
-	color: red;
-}
-.navbar a {
-	color: rgb(12, 25, 70);
-}
-.nav-link img {
-	width: 5rem;
-	position: absolute;
-	top: 3px;
+
+/* header start ----------------------*/
+.vHeader {
+	line-height: 60px;
+	padding: 0 2rem;
 	/* border: 1px solid blue; */
+	/* display: none; */
+	display: flex;
+	justify-content: space-between;
+	display: inline-block;
 }
 
-.vCompare {
-	margin-left: 80px;
-}
-
-.vNavItem {
-	height: 60px;
-	color: red;
-}
-
-/* header start */
 .vLogo img {
-	width: 5rem;
-	position: absolute;
-	top: 3px;
-	/* border: 1px solid blue; */
+	width: 6rem;
 }
 a {
 	text-decoration: none;
 	color: rgb(12, 25, 70);
+	padding: 1.5rem 0 0 1.5rem;
+	font-size: 17px;
 }
 /* unvisited link */
 a:link {
@@ -48,17 +35,13 @@ a:active {
 	color: rgb(12, 25, 70);
 }
 
-.vDistance {
-	margin: 0 0 0 1rem;
-}
 .vBrand {
 	font-size: 20px;
 	font-weight: bold;
 }
-.vNavItem {
+
+.vFontSize1 {
 	font-size: 18px;
+	float:right;
 }
 
-.vMenuIcon {
-	display: none;
-}

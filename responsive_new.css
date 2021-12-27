@@ -14,7 +14,7 @@
         padding-top: 12px;
     }
 
-    ..text-information2{
+    .text-information2{
         width: 900px;
     }
 
@@ -32,9 +32,10 @@
 }
 
 @media all and (max-width: 770px) {
+    
     .text-tittle{
         text-align: center;
-        padding: 13rem 0 0 0;
+        padding: 15rem 0 0 10rem;
     }
 
     .text{
